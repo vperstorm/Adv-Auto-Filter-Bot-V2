@@ -7,9 +7,9 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/CrazyBotsz",
+    "website": "https://github.com/vperstorm/Adv-Auto-Filter-Bot-V2",
     "repository": "https://github.com/vperstorm/Adv-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/CrazyBotsz",
+    "success_url": "https://github.com/vperstorm/Adv-Auto-Filter-Bot-V2",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
